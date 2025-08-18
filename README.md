@@ -36,7 +36,7 @@
 
 - [Scratch 扩展工具库](https://github.com/qiufengcute/ScratchExtensionTools) - 简化扩展开发流程(Python) **「扩展开发更简单 / 自动化 / 一键生成」**  
 - [Minecraft Mod 批量下载工具](https://github.com/qiufengcute/Packnload) - 高效下载 Minecraft Mod(Python) **「批量 / 高效 / 一键下载」**  
-- [UBAD](https://github.com/qiufengcute/unofficial-bilibili-apis-docs) - 一个非官方的b站API文档(Python) **「非官方 / 不断完善中 / 开发者友好」**  
+- [UBAD](https://github.com/qiufengcute/unofficial-bilibili-apis-docs) - 一个非官方的b站API文档(API) **「非官方 / 不断完善中 / 开发者友好」**  
 - [Brainfuck-py](https://github.com/qiufengcute/brainfuck-py) - 一个Python Brainfuck解释器(Python) **「趣味性 / 解释器 / 学习向」**  
 
 更多项目请访问 [我的仓库](https://github.com/qiufengcute?tab=repositories)  
