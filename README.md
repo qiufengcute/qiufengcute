@@ -1,10 +1,50 @@
-- 👋 Hi, I’m @qiufengcute
-- 👋 大家好，我是@qiufengcute
-- ✨ My personal blog is https://www.yuque.com/qiufengqiufeng-qxav8/fgoums
-- ✨ 我的个人博客是https://www.yuque.com/qiufengqiufeng-qxav8/fgoums
+# Hi there 👋, I'm Qiufeng
+
+欢迎来到我的 GitHub！我是 **Qiufeng**，一个热爱 **编程、开源和技术探索** 的开发者。  
+喜欢折腾各种项目，尤其是 **Python、JavaScript**。
+
+---
+
+## 🛠 技能栈
+
+| 语言 / 技术 |     熟练度    |
+|-------------|--------------|
+| Python      | 🟢🟢🟢🟢🟢 |
+| JavaScript  | 🟢🟢🟢🟢⚪ |
+| HTML / CSS  | 🟢🟢⚪⚪⚪ |
+| C / C++     | 🟢🟢🟢⚪⚪ |
+
+---
+
+## 🔭 我正在做的事情
+
+- 开发轻量级 Scratch 扩展工具库，简化扩展开发流程  
+- 制作 Minecraft Mod 批量下载工具   
+
+---
+
+## 📊 GitHub 统计
+
+![Qiufeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiufengcute&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiufengcute&layout=compact&theme=radical)
+
+---
+
+## 📫 联系我
+
+- GitHub: [@qiufengcute](https://github.com/qiufengcute)  
+- 邮箱: appleidqiufeng@outlook.com
+- 个人主页: https://www.qiufeng
+- 个人博客:  https://www.yuque.com/qiufengqiufeng-qxav8/fgoums
+
+---
+
+✨ **代码是思想的延伸，开源让思想流动。**  
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qiufengcute/qiufengcute/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qiufengcute/qiufengcute/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qiufengcute/qiufengcute/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="贡献蛇" src="github-snake.svg">
 </picture>
+
