@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Qiufeng
 
 欢迎来到我的 GitHub！我是 **Qiufeng**，一个热爱 **编程、开源和技术探索** 的开发者。  
-喜欢折腾各种项目，尤其是 **Python、JavaScript**。
+喜欢折腾各种项目，尤其是 **Python**。
 
 ---
 
@@ -27,7 +27,8 @@
 ## 🔭 我正在做的事情
 
 - 开发轻量级 Scratch 扩展工具库，简化扩展开发流程  
-- 制作 Minecraft Mod 批量下载工具   
+- 制作 Minecraft Mod 批量下载工具
+- 收集b站API  
 
 ---
 
