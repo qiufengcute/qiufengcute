@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/Python-熟练-3776AB?logo=python)  
 ![JS](https://img.shields.io/badge/JavaScript-掌握-F7DF1E?logo=javascript)  
 ![Tkinter](https://img.shields.io/badge/Tkinter-掌握-3776AB?logo=python)  
-![C++](https://img.shields.io/badge/C++-掌握-00599C)  
+![C++](https://img.shields.io/badge/C++-掌握-00599C?logo=cplusplus)  
 ![C](https://img.shields.io/badge/C-掌握-A8B9CC?logo=c)  
 ![HTML/CSS](https://img.shields.io/badge/HTML-了解-2776AB?logo=html5)  
 ![Java](https://img.shields.io/badge/Java-了解-e74a1e)
