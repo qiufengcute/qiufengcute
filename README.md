@@ -5,7 +5,7 @@
 [![mail](https://img.shields.io/badge/邮箱-🔗-0078d4?logo=mailboxdotorg)](mailto:appleidqiufeng@outlook.com)
 [![mail](https://img.shields.io/badge/个人主页-🔗-3b3b3b?logo=googlehome)](https://www.qiufeng.eu)
 [![mail](https://img.shields.io/badge/个人博客-🔗-5fcf6c?logo=blogger)](https://www.yuque.com/qiufengqiufeng-qxav8/fgoums)
-[![EN](https://img.shields.io/badge/EN-USVersion-🔗-70c6ff?logo=ReadMe)](https://www.yuque.com/qiufengqiufeng-qxav8/fgoums)
+[![EN](https://img.shields.io/badge/ENUSVersion-🔗-70c6ff?logo=ReadMe)](https://github.com/qiufengcute/qiufengcute/blob/main/README-en.md)
 
 欢迎来到我的 GitHub！我是 **Qiufeng**，一个热爱 **编程、开源和技术探索** 的开发者。  
 喜欢折腾各种项目，尤其是 **Python**。
