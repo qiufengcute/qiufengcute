@@ -2,9 +2,9 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=qiufengcute.qiufengcute)
 [![Bilibili](https://img.shields.io/badge/dynamic/json?color=ff548c&label=Bilibili&query=%24.data.follower&suffix=%20followers&url=https://api.bilibili.com/x/relation/stat?vmid=3493083538786837&logo=bilibili)](https://space.bilibili.com/3493083538786837)
 [![Github](https://img.shields.io/badge/dynamic/json?color=000000&label=Github&query=%24.followers&suffix=%20followers&url=https://api.github.com/users/qiufengcute&logo=github)](https://github.com/qiufengcute)
-[![mail](https://img.shields.io/badge/邮箱-点击跳转-0078d4?logo=mailboxdotorg)](mailto:appleidqiufeng@outlook.com)
-[![mail](https://img.shields.io/badge/个人主页-点击跳转-3b3b3b?logo=googlehome)]([mailto:appleidqiufeng@outlook.com](https://www.qiufeng.eu))
-[![mail](https://img.shields.io/badge/个人博客-点击跳转-5fcf6c?logo=blogger)]([mailto:appleidqiufeng@outlook.com](https://www.yuque.com/qiufengqiufeng-qxav8/fgoums))
+[![mail](https://img.shields.io/badge/邮箱-🔗-0078d4?logo=mailboxdotorg)](mailto:appleidqiufeng@outlook.com)
+[![mail](https://img.shields.io/badge/个人主页-🔗-3b3b3b?logo=googlehome)]([mailto:appleidqiufeng@outlook.com](https://www.qiufeng.eu))
+[![mail](https://img.shields.io/badge/个人博客-🔗-5fcf6c?logo=blogger)]([mailto:appleidqiufeng@outlook.com](https://www.yuque.com/qiufengqiufeng-qxav8/fgoums))
 
 欢迎来到我的 GitHub！我是 **Qiufeng**，一个热爱 **编程、开源和技术探索** 的开发者。  
 喜欢折腾各种项目，尤其是 **Python**。
