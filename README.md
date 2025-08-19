@@ -1,5 +1,10 @@
 # Hi there 👋, I'm Qiufeng
-[![](https://img.shields.io/badge/dynamic/json?color=ff548c&label=Bilibili&query=%24.data.follower&suffix=%20followers&url=https://api.bilibili.com/x/relation/stat?vmid=3493083538786837)](https://space.bilibili.com/3493083538786837) ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=qiufengcute.qiufengcute)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=qiufengcute.qiufengcute)
+[![Bilibili](https://img.shields.io/badge/dynamic/json?color=ff548c&label=Bilibili&query=%24.data.follower&suffix=%20followers&url=https://api.bilibili.com/x/relation/stat?vmid=3493083538786837&logo=bilibili)](https://space.bilibili.com/3493083538786837)
+[![Github](https://img.shields.io/badge/dynamic/json?color=000000&label=Github&query=%24.followers&suffix=%20followers&url=https://api.github.com/users/qiufengcute&logo=github)](https://github.com/qiufengcute)
+[![mail](https://img.shields.io/badge/邮箱-点击跳转-0078d4?logo=mailboxdotorg)](mailto:appleidqiufeng@outlook.com)
+[![mail](https://img.shields.io/badge/个人主页-点击跳转-3b3b3b?logo=googlehome)]([mailto:appleidqiufeng@outlook.com](https://www.qiufeng.eu))
+[![mail](https://img.shields.io/badge/个人博客-点击跳转-5fcf6c?logo=blogger)]([mailto:appleidqiufeng@outlook.com](https://www.yuque.com/qiufengqiufeng-qxav8/fgoums))
 
 欢迎来到我的 GitHub！我是 **Qiufeng**，一个热爱 **编程、开源和技术探索** 的开发者。  
 喜欢折腾各种项目，尤其是 **Python**。
@@ -36,10 +41,29 @@
 
 ## 🚀 项目展示
 
-- 📜 [ScratchExtensionTools](https://github.com/qiufengcute/ScratchExtensionTools) - 简化扩展开发流程 ![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python) **「扩展开发更简单 / 自动化 / 一键生成」** ![Stars](https://img.shields.io/github/stars/qiufengcute/ScratchExtensionTools?style=flat) ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/ScratchExtensionTools?label=最后更新)  
-- 📦 [Packnload](https://github.com/qiufengcute/Packnload) - 高效下载 Minecraft Mod ![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python) **「批量 / 高效 / 一键下载」** ![Stars](https://img.shields.io/github/stars/qiufengcute/Packnload?style=flat) ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/Packnload?label=最后更新)  
-- 📚 [UBAD](https://github.com/qiufengcute/unofficial-bilibili-apis-docs) - 一个非官方的b站API文档 ![API](https://img.shields.io/badge/相关语言-API-2496ED?logo=api) **「非官方 / 不断完善中 / 开发者友好」** ![Stars](https://img.shields.io/github/stars/qiufengcute/unofficial-bilibili-apis-docs?style=flat) ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/unofficial-bilibili-apis-docs?label=最后更新)  
-- 🧠 [Brainfuck-py](https://github.com/qiufengcute/brainfuck-py) - 一个Python Brainfuck解释器 ![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python) **「趣味性 / 解释器 / 学习向」** ![Stars](https://img.shields.io/github/stars/qiufengcute/brainfuck-py?style=flat) ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/brainfuck-py?label=最后更新)  
+- 📜 [ScratchExtensionTools](https://github.com/qiufengcute/ScratchExtensionTools) **「扩展开发更简单 / 自动化 / 一键生成」**  
+**简化扩展开发流程**  
+![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python)
+![Stars](https://img.shields.io/github/stars/qiufengcute/ScratchExtensionTools?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/ScratchExtensionTools?label=最后更新)
+
+- 📦 [Packnload](https://github.com/qiufengcute/Packnload) **「批量 / 高效 / 一键下载」**  
+**高效下载 Minecraft Mod**  
+![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python)
+![Stars](https://img.shields.io/github/stars/qiufengcute/Packnload?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/Packnload?label=最后更新)
+
+- 📚 [UBAD](https://github.com/qiufengcute/unofficial-bilibili-apis-docs) **「非官方 / 不断完善中 / 开发者友好」**  
+**一个非官方的b站API文档**  
+![API](https://img.shields.io/badge/相关语言-API-2496ED?logo=api)
+![Stars](https://img.shields.io/github/stars/qiufengcute/unofficial-bilibili-apis-docs?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/unofficial-bilibili-apis-docs?label=最后更新)
+
+- 🧠 [Brainfuck-py](https://github.com/qiufengcute/brainfuck-py) **「趣味性 / 解释器 / 学习向」**  
+**一个Python Brainfuck解释器**  
+![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python)
+![Stars](https://img.shields.io/github/stars/qiufengcute/brainfuck-py?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/brainfuck-py?label=最后更新)  
 
 更多项目请访问 [我的仓库](https://github.com/qiufengcute?tab=repositories)  
 
@@ -50,15 +74,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=qiufengcute&hide=contribs&show_icons=true&theme=dracula)
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiufengcute&layout=compact&theme=dracula)
-
----
-
-## 🔗 关于我
-
-- <img src="https://github.githubassets.com/favicons/favicon.png" width="16"/> GitHub: [@qiufengcute](https://github.com/qiufengcute)  
-- 📫 邮箱: [appleidqiufeng@outlook.com](mailto:appleidqiufeng@outlook.com)  
-- 🌐 个人主页: [https://www.qiufeng.eu](https://www.qiufeng.eu)  
-- 📖 个人博客: [https://www.yuque.com/qiufengqiufeng-qxav8/fgoums](https://www.yuque.com/qiufengqiufeng-qxav8/fgoums)  
 
 ---
 
