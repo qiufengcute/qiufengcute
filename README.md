@@ -65,8 +65,8 @@
 ✨ **代码是思想的延伸，开源让思想流动。**  
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qiufengcute/qiufengcute/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qiufengcute/qiufengcute/output/github-snake.svg">
   <img alt="贡献蛇" src="github-snake.svg">
 </picture>
 
