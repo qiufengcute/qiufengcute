@@ -61,7 +61,7 @@
 
 - 📚 [UBAD](https://github.com/qiufengcute/unofficial-bilibili-apis-docs) **「非官方 / 不断完善中 / 开发者友好」**  
 **一个非官方的b站API文档**  
-![API](https://img.shields.io/badge/相关语言-API-2496ED?logo=api)
+![API](https://img.shields.io/badge/相关语言-API-2496ED?logo=apifox)
 ![Stars](https://img.shields.io/github/stars/qiufengcute/unofficial-bilibili-apis-docs?style=flat)
 ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/unofficial-bilibili-apis-docs?label=最后更新)
 
