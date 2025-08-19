@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-🔗-0078d4?logo=mailboxdotorg)](mailto:appleidqiufeng@outlook.com)
 [![Homepage](https://img.shields.io/badge/Homepage-🔗-3b3b3b?logo=googlehome)](https://www.qiufeng.eu)
 [![Blog](https://img.shields.io/badge/Blog-🔗-5fcf6c?logo=blogger)](https://www.yuque.com/qiufengqiufeng-qxav8/fgoums)
-[![CN](https://img.shields.io/badge/中文版-🔗-70c6ff?logo=ReadMe)](https://github.com/qiufengcute)
+[![CN](https://img.shields.io/badge/中文版-🔗-70c6ff?logo=ReadMe)](https://github.com/qiufengcute/qiufengcute/blob/main/README.md)
 
 Welcome to my GitHub! I'm **Qiufeng**, a developer passionate about **programming, open source, and tech exploration**.
 I love tinkering with various projects, especially **Python**.
@@ -79,8 +79,6 @@ More projects available on [my repositories](https://github.com/qiufengcute?tab=
 ---
 
 ✨ **Code is the extension of thought; open source lets thoughts flow.**
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qiufengcute/qiufengcute/output/github-snake-dark.svg">
