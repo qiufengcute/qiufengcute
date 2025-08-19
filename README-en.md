@@ -62,7 +62,7 @@ I love tinkering with various projects, especially **Python**.
 
 - 📚 [UBAD](https://github.com/qiufengcute/unofficial-bilibili-apis-docs) **「Unofficial / Continuously Improving / Developer-Friendly」**  
   **An unofficial Bilibili API documentation**  
-  ![API](https://img.shields.io/badge/Language-API-2496ED?logo=api)
+  ![API](https://img.shields.io/badge/Language-API-2496ED?logo=apifox)
   ![Stars](https://img.shields.io/github/stars/qiufengcute/unofficial-bilibili-apis-docs?style=flat)
   ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/unofficial-bilibili-apis-docs?label=Last%20Update)
 
