@@ -39,9 +39,9 @@
 
 ## 🔭 我正在做的事情
 
-- 开发轻量级 Scratch 扩展工具库，简化扩展开发流程  
+- 开发轻量级 Scratch 扩展工具库  
+- 开发 HexColor 库  
 - 制作 Minecraft Mod 批量下载工具
-- 收集b站API  
 
 ---
 
@@ -59,11 +59,11 @@
 ![Stars](https://img.shields.io/github/stars/qiufengcute/Packnload?style=flat)
 ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/Packnload?label=最后更新)
 
-- 📚 [UBAD](https://github.com/qiufengcute/unofficial-bilibili-apis-docs) **「非官方 / 不断完善中 / 开发者友好」**  
-**一个非官方的b站API文档**  
-![API](https://img.shields.io/badge/相关语言-API-2496ED?logo=apifox)
-![Stars](https://img.shields.io/github/stars/qiufengcute/unofficial-bilibili-apis-docs?style=flat)
-![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/unofficial-bilibili-apis-docs?label=最后更新)
+- 📚 [HexColor](https://github.com/qiufengcute/HexColor) **「16进制颜色 / 新类型 / 多种工具」**  
+**添加了HexColor类型**  
+![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python)
+![Stars](https://img.shields.io/github/stars/qiufengcute/HexColor?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/HexColor?label=最后更新)
 
 - 🧠 [Brainfuck-py](https://github.com/qiufengcute/brainfuck-py) **「趣味性 / 解释器 / 学习向」**  
 **一个Python Brainfuck解释器**  
