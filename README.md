@@ -60,7 +60,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/Packnload?label=最后更新)
 
 - 🌈 [HexColor](https://github.com/qiufengcute/HexColor) **「16进制颜色 / 新类型 / 多种工具」**  
-**添加了HexColor类型**  
+**添加了 HexColor 类型**  
 ![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python)
 ![Stars](https://img.shields.io/github/stars/qiufengcute/HexColor?style=flat)
 ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/HexColor?label=最后更新)
