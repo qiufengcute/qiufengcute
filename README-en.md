@@ -40,9 +40,9 @@ I love tinkering with various projects, especially **Python**.
 
 ## 🔭 Current Work
 
-- Developing a lightweight Scratch extension toolkit to simplify extension development
-- Creating a Minecraft Mod batch download tool
-- Collecting Bilibili API data
+- Developing a lightweight Scratch extension toolkit  
+- Developing HexColor toolkit  
+- Creating a Minecraft Mod batch download tool  
 
 ---
 
@@ -60,11 +60,11 @@ I love tinkering with various projects, especially **Python**.
   ![Stars](https://img.shields.io/github/stars/qiufengcute/Packnload?style=flat)
   ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/Packnload?label=Last%20Update)
 
-- 📚 [UBAD](https://github.com/qiufengcute/unofficial-bilibili-apis-docs) **「Unofficial / Continuously Improving / Developer-Friendly」**  
-  **An unofficial Bilibili API documentation**  
-  ![API](https://img.shields.io/badge/Language-API-2496ED?logo=apifox)
-  ![Stars](https://img.shields.io/github/stars/qiufengcute/unofficial-bilibili-apis-docs?style=flat)
-  ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/unofficial-bilibili-apis-docs?label=Last%20Update)
+- 🌈 [HexColor](https://github.com/qiufengcute/HexColor) **「Hexadecimal Color / New Type / Multiple Tools」**  
+**Add HexColor type**  
+![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python)
+![Stars](https://img.shields.io/github/stars/qiufengcute/HexColor?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/HexColor?label=最后更新)
 
 - 🧠 [Brainfuck-py](https://github.com/qiufengcute/brainfuck-py) **「Fun / Interpreter / Learning」**  
   **A Python Brainfuck interpreter**  
