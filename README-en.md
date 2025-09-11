@@ -3,7 +3,7 @@
 [![Bilibili](https://img.shields.io/badge/dynamic/json?color=ff548c\&label=Bilibili\&query=%24.data.follower\&suffix=%20followers\&url=https://api.bilibili.com/x/relation/stat?vmid=3493083538786837\&logo=bilibili)](https://space.bilibili.com/3493083538786837)
 [![Github](https://img.shields.io/badge/dynamic/json?color=000000\&label=Github\&query=%24.followers\&suffix=%20followers\&url=https://api.github.com/users/qiufengcute\&logo=github)](https://github.com/qiufengcute)
 [![Email](https://img.shields.io/badge/Email-🔗-0078d4?logo=mailboxdotorg)](mailto:appleidqiufeng@outlook.com)
-[![Homepage](https://img.shields.io/badge/Homepage-🔗-3b3b3b?logo=googlehome)](https://www.qiufeng.eu)
+[![Homepage](https://img.shields.io/badge/Homepage-🔗-3b3b3b?logo=googlehome)](https://qiufengcute.github.io/qiufeng-homepage/)
 [![Blog](https://img.shields.io/badge/Blog-🔗-5fcf6c?logo=blogger)](https://www.yuque.com/qiufengqiufeng-qxav8/fgoums)
 [![CN](https://img.shields.io/badge/中文版-🔗-70c6ff?logo=ReadMe)](https://github.com/qiufengcute/qiufengcute/blob/main/README.md)
 
