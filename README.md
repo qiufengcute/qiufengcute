@@ -41,28 +41,28 @@
 ## 🚀 项目展示
 
 - 🔍 [EasySearch](https://github.com/qiufengcute/EasySearch) **「搜索更简单 / 多引擎搜索 / 自动分配权重」**  
-**一个简洁高效的本地搜索引擎工具**  
-![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python)
-![Stars](https://img.shields.io/github/stars/qiufengcute/EasySearch?style=flat)
-![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/EasySearch?label=最后更新)
+    **一个简洁高效的本地搜索引擎工具**  
+    ![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python)
+    ![Stars](https://img.shields.io/github/stars/qiufengcute/EasySearch?style=flat)
+    ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/EasySearch?label=最后更新)
 
 - 📜 [ScratchExtensionTools](https://github.com/qiufengcute/ScratchExtensionTools) **「扩展开发更简单 / 自动化 / 一键生成」**  
-**简化扩展开发流程**  
-![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python)
-![Stars](https://img.shields.io/github/stars/qiufengcute/ScratchExtensionTools?style=flat)
-![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/ScratchExtensionTools?label=最后更新)
+    **简化扩展开发流程**  
+    ![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python)
+    ![Stars](https://img.shields.io/github/stars/qiufengcute/ScratchExtensionTools?style=flat)
+    ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/ScratchExtensionTools?label=最后更新)
 
 - 📦 [Packnload](https://github.com/qiufengcute/Packnload) **「批量 / 高效 / 一键下载」**  
-**高效下载 Minecraft Mod**  
-![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python)
-![Stars](https://img.shields.io/github/stars/qiufengcute/Packnload?style=flat)
-![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/Packnload?label=最后更新)
+    **高效下载 Minecraft Mod**  
+    ![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python)
+    ![Stars](https://img.shields.io/github/stars/qiufengcute/Packnload?style=flat)
+    ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/Packnload?label=最后更新)
 
 - 🌈 [HexColor](https://github.com/qiufengcute/HexColor) **「16进制颜色 / 新类型 / 多种工具」**  
-**添加了 HexColor 类型**  
-![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python)
-![Stars](https://img.shields.io/github/stars/qiufengcute/HexColor?style=flat)
-![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/HexColor?label=最后更新)
+    **添加了 HexColor 类型**  
+    ![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python)
+    ![Stars](https://img.shields.io/github/stars/qiufengcute/HexColor?style=flat)
+    ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/HexColor?label=最后更新)
 
 更多项目请访问 [我的仓库](https://github.com/qiufengcute?tab=repositories)  
 
