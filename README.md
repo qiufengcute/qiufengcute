@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Qiufeng
+
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=qiufengcute.qiufengcute)
 [![Bilibili](https://img.shields.io/badge/dynamic/json?color=ff548c&label=Bilibili&query=%24.data.follower&suffix=%20followers&url=https://api.bilibili.com/x/relation/stat?vmid=3493083538786837&logo=bilibili)](https://space.bilibili.com/3493083538786837)
 [![Github](https://img.shields.io/badge/dynamic/json?color=000000&label=Github&query=%24.followers&suffix=%20followers&url=https://api.github.com/users/qiufengcute&logo=github)](https://github.com/qiufengcute)
@@ -37,15 +38,13 @@
 
 ---
 
-## 🔭 我正在做的事情
-
-- 开发轻量级 Scratch 扩展工具库  
-- 开发 HexColor 库  
-- 制作 Minecraft Mod 批量下载工具
-
----
-
 ## 🚀 项目展示
+
+- 🔍 [EasySearch](https://github.com/qiufengcute/EasySearch) **「搜索更简单 / 多引擎搜索 / 自动分配权重」**  
+**一个简洁高效的本地搜索引擎工具**  
+![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python)
+![Stars](https://img.shields.io/github/stars/qiufengcute/EasySearch?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/EasySearch?label=最后更新)
 
 - 📜 [ScratchExtensionTools](https://github.com/qiufengcute/ScratchExtensionTools) **「扩展开发更简单 / 自动化 / 一键生成」**  
 **简化扩展开发流程**  
@@ -64,12 +63,6 @@
 ![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python)
 ![Stars](https://img.shields.io/github/stars/qiufengcute/HexColor?style=flat)
 ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/HexColor?label=最后更新)
-
-- 🧠 [Brainfuck-py](https://github.com/qiufengcute/brainfuck-py) **「趣味性 / 解释器 / 学习向」**  
-**一个Python Brainfuck解释器**  
-![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python)
-![Stars](https://img.shields.io/github/stars/qiufengcute/brainfuck-py?style=flat)
-![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/brainfuck-py?label=最后更新)  
 
 更多项目请访问 [我的仓库](https://github.com/qiufengcute?tab=repositories)  
 
