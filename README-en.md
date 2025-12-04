@@ -38,15 +38,13 @@ I love tinkering with various projects, especially **Python**.
 
 ---
 
-## 🔭 Current Work
-
-- Developing a lightweight Scratch extension toolkit  
-- Developing HexColor toolkit  
-- Creating a Minecraft Mod batch download tool  
-
----
-
 ## 🚀 Featured Projects
+
+- 🔍 [EasySearch](https://github.com/qiufengcute/EasySearch) **「Simpler Search / Multi-Engine Search / Automatic Weight Allocation」**  
+  **A simple and efficient local search engine tool**  
+  ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python)
+  ![Stars](https://img.shields.io/github/stars/qiufengcute/EasySearch?style=flat)
+  ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/EasySearch?label=Last%20Update)
 
 - 📜 [ScratchExtensionTools](https://github.com/qiufengcute/ScratchExtensionTools) **「Simpler / Automated / One-Click Generation」**  
   **Simplifies Scratch extension development**  
@@ -61,16 +59,10 @@ I love tinkering with various projects, especially **Python**.
   ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/Packnload?label=Last%20Update)
 
 - 🌈 [HexColor](https://github.com/qiufengcute/HexColor) **「Hexadecimal Color / New Type / Multiple Tools」**  
-**Add HexColor type**  
-![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python)
-![Stars](https://img.shields.io/github/stars/qiufengcute/HexColor?style=flat)
-![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/HexColor?label=最后更新)
-
-- 🧠 [Brainfuck-py](https://github.com/qiufengcute/brainfuck-py) **「Fun / Interpreter / Learning」**  
-  **A Python Brainfuck interpreter**  
+  **Add HexColor type**  
   ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python)
-  ![Stars](https://img.shields.io/github/stars/qiufengcute/brainfuck-py?style=flat)
-  ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/brainfuck-py?label=Last%20Update)
+  ![Stars](https://img.shields.io/github/stars/qiufengcute/HexColor?style=flat)
+  ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/HexColor?label=Last%20Update)
 
 More projects available on [my repositories](https://github.com/qiufengcute?tab=repositories)
 
