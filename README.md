@@ -60,7 +60,7 @@
     ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/Packnload?label=最后更新)
 
 - 🌐 [SkipTransfer](https://github.com/qiufengcute/SkipTransfer) **「浏览器扩展 / 跳过中转 / 直达目标」**  
-    **一个正在开发中的浏览器扩展项目**  
+    **一个帮助跳过中转页的浏览器扩展项目**  
     ![JavaScript](https://img.shields.io/badge/相关语言-JavaScript-F7DF1E?logo=javascript)
     ![Stars](https://img.shields.io/github/stars/qiufengcute/SkipTransfer?style=flat)
     ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/SkipTransfer?label=最后更新)
@@ -84,4 +84,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qiufengcute/qiufengcute/output/github-snake.svg">
   <img alt="贡献蛇" src="github-snake.svg">
 </picture>
-
