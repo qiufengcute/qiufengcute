@@ -39,31 +39,31 @@ I love tinkering with various projects, especially **Python**.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-- 🔍 [EasySearch](https://github.com/qiufengcute/EasySearch) **「Simpler Search / Multi-Engine Search / Automatic Weight Allocation」**  
-  **A simple and efficient local search engine tool**  
-  ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python)
-  ![Stars](https://img.shields.io/github/stars/qiufengcute/EasySearch?style=flat)
-  ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/EasySearch?label=Last%20Update)
+- 🔍 [EasySearch](https://github.com/qiufengcute/EasySearch) **「Search made simple / Multi-engine / Auto weight」**  
+    **A clean and efficient local search engine tool**  
+    ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python)
+    ![Stars](https://img.shields.io/github/stars/qiufengcute/EasySearch?style=flat)
+    ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/EasySearch?label=Last%20Commit)
 
-- 📜 [ScratchExtensionTools](https://github.com/qiufengcute/ScratchExtensionTools) **「Simpler / Automated / One-Click Generation」**  
-  **Simplifies Scratch extension development**  
-  ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python)
-  ![Stars](https://img.shields.io/github/stars/qiufengcute/ScratchExtensionTools?style=flat)
-  ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/ScratchExtensionTools?label=Last%20Update)
+- ⚔️ [CodeDuel](https://github.com/qiufengcute/CodeDuel) **「Code as weapon / Battle with code / Learn by playing」**  
+    **A programming game where you fight with code**  
+    ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python)
+    ![Stars](https://img.shields.io/github/stars/qiufengcute/CodeDuel?style=flat)
+    ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/CodeDuel?label=Last%20Commit)
 
-- 📦 [Packnload](https://github.com/qiufengcute/Packnload) **「Batch / Efficient / One-Click Download」**  
-  **Efficiently download Minecraft mods**  
-  ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python)
-  ![Stars](https://img.shields.io/github/stars/qiufengcute/Packnload?style=flat)
-  ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/Packnload?label=Last%20Update)
+- 📦 [Packnload](https://github.com/qiufengcute/Packnload) **「Batch / Efficient / One-click download」**  
+    **Download Minecraft Mods efficiently**  
+    ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python)
+    ![Stars](https://img.shields.io/github/stars/qiufengcute/Packnload?style=flat)
+    ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/Packnload?label=Last%20Commit)
 
-- 🌈 [HexColor](https://github.com/qiufengcute/HexColor) **「Hexadecimal Color / New Type / Multiple Tools」**  
-  **Add HexColor type**  
-  ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python)
-  ![Stars](https://img.shields.io/github/stars/qiufengcute/HexColor?style=flat)
-  ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/HexColor?label=Last%20Update)
+- 🌐 [SkipTransfer](https://github.com/qiufengcute/SkipTransfer) **「Browser extension / Skip the middle / Go straight」**  
+    **A browser extension project currently in development**  
+    ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript)
+    ![Stars](https://img.shields.io/github/stars/qiufengcute/SkipTransfer?style=flat)
+    ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/SkipTransfer?label=Last%20Commit)
 
 More projects available on [my repositories](https://github.com/qiufengcute?tab=repositories)
 
