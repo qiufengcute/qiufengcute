@@ -47,11 +47,11 @@
     ![Stars](https://img.shields.io/github/stars/qiufengcute/EasySearch?style=flat)
     ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/EasySearch?label=最后更新)
 
-- 📜 [ScratchExtensionTools](https://github.com/qiufengcute/ScratchExtensionTools) **「扩展开发更简单 / 自动化 / 一键生成」**  
-    **简化扩展开发流程**  
+- ⚔️ [CodeDuel](https://github.com/qiufengcute/CodeDuel) **「用代码打怪 / 编程对战 / 边写边玩」**  
+    **一个用代码战斗的编程游戏项目**  
     ![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python)
-    ![Stars](https://img.shields.io/github/stars/qiufengcute/ScratchExtensionTools?style=flat)
-    ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/ScratchExtensionTools?label=最后更新)
+    ![Stars](https://img.shields.io/github/stars/qiufengcute/CodeDuel?style=flat)
+    ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/CodeDuel?label=最后更新)
 
 - 📦 [Packnload](https://github.com/qiufengcute/Packnload) **「批量 / 高效 / 一键下载」**  
     **高效下载 Minecraft Mod**  
@@ -59,11 +59,11 @@
     ![Stars](https://img.shields.io/github/stars/qiufengcute/Packnload?style=flat)
     ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/Packnload?label=最后更新)
 
-- 🌈 [HexColor](https://github.com/qiufengcute/HexColor) **「16进制颜色 / 新类型 / 多种工具」**  
-    **添加了 HexColor 类型**  
-    ![Python](https://img.shields.io/badge/相关语言-Python-3776AB?logo=python)
-    ![Stars](https://img.shields.io/github/stars/qiufengcute/HexColor?style=flat)
-    ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/HexColor?label=最后更新)
+- 🌐 [SkipTransfer](https://github.com/qiufengcute/SkipTransfer) **「浏览器扩展 / 跳过中转 / 直达目标」**  
+    **一个正在开发中的浏览器扩展项目**  
+    ![JavaScript](https://img.shields.io/badge/相关语言-JavaScript-F7DF1E?logo=javascript)
+    ![Stars](https://img.shields.io/github/stars/qiufengcute/SkipTransfer?style=flat)
+    ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/SkipTransfer?label=最后更新)
 
 更多项目请访问 [我的仓库](https://github.com/qiufengcute?tab=repositories)  
 
