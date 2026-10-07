@@ -60,7 +60,7 @@ I love tinkering with various projects, especially **Python**.
     ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/Packnload?label=Last%20Commit)
 
 - 🌐 [SkipTransfer](https://github.com/qiufengcute/SkipTransfer) **「Browser extension / Skip the middle / Go straight」**  
-    **A browser extension project currently in development**  
+    **A browser extension project that helps skip redirect pages**  
     ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript)
     ![Stars](https://img.shields.io/github/stars/qiufengcute/SkipTransfer?style=flat)
     ![Last Commit](https://img.shields.io/github/last-commit/qiufengcute/SkipTransfer?label=Last%20Commit)
